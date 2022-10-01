@@ -6,3 +6,4 @@ Some of the question that I have tried to anwer through the dashboard are:
 2. Which cryptocurrency has the greatest trading volume?
 3. How the volume of various cryptocurrency has changed over time?
 4. What is the Averege growth of each cryptocurrency over the various years. 
+Note: The dataset 'Cryptocurrency dataset' is taken from Kaggle.
